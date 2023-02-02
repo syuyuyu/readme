@@ -2,35 +2,33 @@
 
 ## 專案功能
 
-- 全站 RWD。
+### RWD 設計
 
-  1.首頁
-
-  - 首頁
+### 首頁
 
 - 上方 : 大圖游標左右移動特效，
-- 下方 : 為滑鼠移動 hover 效果。  
+- 下方 : 為滑鼠移動 hover 效果。
 
   <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334251032.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334251032.jpg?raw=true" width="700"/>
-  <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334257360.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334257360.jpg?raw=true" width="700"/>  
+  <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334257360.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334257360.jpg?raw=true" width="700"/>
 
-  2.作品頁面
+### 作品頁面
 
 - Grid 的 RWD。  
   <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334278987.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334278987.jpg?raw=true" width="400"/>
   <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334291908.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334291908.jpg?raw=true" width="300"/>
   <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334298669.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334298669.jpg?raw=true" width="200"/>
 
-  3.關於頁面
+### 關於頁面
 
 - 網頁下拉的彈出特效。  
   <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334317696.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334317696.jpg?raw=true" width="700"/>
 
-### 專案網址
+## 專案網址
 
 https://syuyuyu.github.io/portfolio/
 
-### 本地安裝
+## 本地安裝
 
 1.確認本機環境已下載 npm 及 Node.js
 
