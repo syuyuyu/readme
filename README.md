@@ -10,9 +10,10 @@
 
 - 上方 : 大圖游標左右移動特效，
 - 下方 : 為滑鼠移動 hover 效果。
+|
   <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334251032.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334251032.jpg?raw=true" width="500"/>
   <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334257360.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334257360.jpg?raw=true" width="500"/>
-
+|
   2.作品頁面
 
 - Grid 的 RWD。
