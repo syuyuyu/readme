@@ -2,9 +2,9 @@
 
 ## 專案功能
 
-### RWD 設計
+### 1.RWD 設計
 
-### 首頁
+### 2.首頁
 
 - 上方 : 大圖游標左右移動特效，
 - 下方 : 為滑鼠移動 hover 效果。
@@ -12,14 +12,14 @@
   <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334251032.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334251032.jpg?raw=true" width="700"/>
   <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334257360.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334257360.jpg?raw=true" width="700"/>
 
-### 作品頁面
+### 3.作品頁面
 
 - Grid 的 RWD。  
   <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334278987.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334278987.jpg?raw=true" width="400"/>
   <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334291908.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334291908.jpg?raw=true" width="300"/>
   <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334298669.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334298669.jpg?raw=true" width="200"/>
 
-### 關於頁面
+### 4.關於頁面
 
 - 網頁下拉的彈出特效。  
   <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334317696.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334317696.jpg?raw=true" width="700"/>
