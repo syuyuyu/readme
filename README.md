@@ -11,7 +11,7 @@
 - 上方 : 大圖游標左右移動特效，
 - 下方 : 為滑鼠移動 hover 效果。
   ![image](https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334251032.jpg?raw=true)
-  <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334251032.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334251032.jpg?raw=true" width="200" height="400" />
+  <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334251032.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334251032.jpg?raw=true" width="400"/>
   ![image](https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334257360.jpg?raw=true)
 
   2.作品頁面
