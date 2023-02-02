@@ -11,20 +11,20 @@
 - 上方 : 大圖游標左右移動特效，
 - 下方 : 為滑鼠移動 hover 效果。  
 
-  <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334251032.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334251032.jpg?raw=true" width="500"/>
-  <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334257360.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334257360.jpg?raw=true" width="500"/>  
+  <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334251032.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334251032.jpg?raw=true" width="700"/>
+  <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334257360.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334257360.jpg?raw=true" width="700"/>  
 
   2.作品頁面
 
 - Grid 的 RWD。
-  ![image](https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334278987.jpg?raw=true)
-  ![image](https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334291908.jpg?raw=true)
-  ![image](https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334298669.jpg?raw=true)
+  <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334278987.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334278987.jpg?raw=true" width="700"/>
+  <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334291908.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334291908.jpg?raw=true" width="500"/>
+  <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334298669.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334298669.jpg?raw=true" width="300"/>
 
   3.關於頁面
 
 - 網頁下拉的彈出特效。
-  ![image](https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334317696.jpg?raw=true)
+  <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334317696.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334317696.jpg?raw=true" width="700"/>
 
 ### 專案網址
 
