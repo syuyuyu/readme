@@ -16,15 +16,15 @@
 
   2.作品頁面
 
-- Grid 的 RWD。
-  <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334278987.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334278987.jpg?raw=true" width="700"/>
-  <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334291908.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334291908.jpg?raw=true" width="500"/>
-  <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334298669.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334298669.jpg?raw=true" width="300"/>
+- Grid 的 RWD。  
+  <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334278987.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334278987.jpg?raw=true" width="500"/>
+  <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334291908.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334291908.jpg?raw=true" width="350"/>
+  <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334298669.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334298669.jpg?raw=true" width="200"/>
 
   3.關於頁面
 
-- 網頁下拉的彈出特效。
-  <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334317696.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334317696.jpg?raw=true" width="700"/>
+- 網頁下拉的彈出特效。  
+  <img src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334317696.jpg?raw=true" data-canonical-src="https://github.com/syuyuyu/portfolio/blob/main/public/readme-img/messageImage_1675334317696.jpg?raw=true" width="500"/>
 
 ### 專案網址
 
